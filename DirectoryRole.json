@@ -1,0 +1,175 @@
+{
+    "Role": [
+        {
+			"GlobalAdmin": {
+				"id": "62e90394-69f5-4237-9190-012177145e10"
+			},
+			"GuestAdmin": {
+				"id": "10dae51f-b6af-4016-8d66-8c2a99b929b3"
+			},
+			"GuestInviter": {
+				"id": "95e79109-95c0-4d8e-aee3-d01accf2d47b"
+			},
+			"UserAdmin": {
+				"id": "fe930be7-5e62-47db-91af-98c3a49a38b1"
+			},
+			"HelpdeskAdmin": {
+				"id": "729827e3-9c14-49f7-bb1b-9608f156bbb8"
+			},
+			"ServiceSupportAdmin": {
+				"id": "f023fd81-a637-4b56-95fd-791ac0226033"
+			},
+			"BillingAdmin": {
+				"id": "b0f54661-2d74-4c50-afa3-1ec803f12efe"
+			},
+			"DirectoryReader": {
+				"id": "88d8e3e3-8f55-4a1e-953a-9b9898b8876b"
+			},
+			"DirectoryWriter": {
+				"id": "9360feb5-f418-4baa-8175-e2a00bac4301"
+			},
+			"ExchangeAdmin": {
+				"id": "29232cdf-9323-42fd-ade2-1d097af3e4de"
+			},
+			"SharepointAdmin": {
+				"id": "f28a1f50-f6e7-4571-818b-6a12f2af6b6c"
+			},
+			"SkypeAdmin": {
+				"id": "75941009-915a-4869-abe7-691bff18279e"
+			},
+			"AzureADLocalAdmin": {
+				"id": "9f06204d-73c1-4d4c-880a-6edb90606fd8"
+			},
+			"ComplianceAdmin": {
+				"id": "17315797-102d-40b4-93e0-432062caca18"
+			},
+			"AppAdmin": {
+				"id": "9b895d92-2cd3-44c7-9d02-a6ac2d5ea5c3"
+			},
+			"AppDev": {
+				"id": "cf1c38e5-3621-4004-a7cb-879624dced7c"
+			},
+			"SecurityReader": {
+				"id": "5d6b6bb7-de71-4623-b4af-96380a352509"
+			},
+			"SecurityAdmin": {
+				"id": "194ae4cb-b126-40b2-bd5b-6091b380977d"
+			},
+			"PIMAdmin": {
+				"id": "e8611ab8-c189-46e8-94e1-60213ab1f814"
+			},
+			"IntuneAdmin": {
+				"id": "3a2c62db-5318-420d-8d74-23affee5d9d5"
+			},
+			"CloudAppAdmin": {
+				"id": "158c047a-c907-4556-b7ef-446551a6b5f7"
+			},
+			"D365Admin": {
+				"id": "44367163-eba1-44c3-98af-f5787879f96a"
+			},
+			"PowerBIAdmin": {
+				"id": "a9ea8996-122f-4c74-9520-8edcd192826c"
+			},
+			"ConditionalAccessAdmin": {
+				"id": "b1be1c3e-b65d-4f19-8427-f6fa0d97feb9"
+			},
+			"ReportReader": {
+				"id": "4a5d8f65-41da-4de4-8968-e035b65339cf"
+			},
+			"MessageCenterReader": {
+				"id": "790c1fb9-7f7d-4f88-86a1-ef1f95c05c1b"
+			},
+			"AIPAdmin": {
+				"id": "7495fdc4-34c4-4d15-a289-98788ce399fd"
+			},
+			"DesktopAnalyticAdmin": {
+				"id": "38a96431-2bdf-4b4c-8b6e-5d3d8abac1a4"
+			},
+			"LicenseAdmin": {
+				"id": "4d6ac14f-3453-41d0-bef9-a3e0c569773a"
+			},
+			"CloudDeviceAdmin": {
+				"id": "7698a772-787b-4ac8-901f-60d6b08affd2"
+			},
+			"AuthAdmin": {
+				"id": "c4e39bd9-1100-46d3-8c65-fb160da0071f"
+			},
+			"PrivAuthAdmin": {
+				"id": "7be44c8a-adaf-4e2a-84d6-ab2649e08a13"
+			},
+			"TeamsCommAdmin": {
+				"id": "baf37b3a-610e-45da-9e62-d9d1e5e8914b"
+			},
+			"TeamsCommSupportEngi": {
+				"id": "f70938a0-fc10-4177-9e90-2178f8765737"
+			},
+			"TeamsAdmin": {
+				"id": "69091246-20e8-4a56-aa4d-066075b2a7a8"
+			},
+			"TeamsCommSupportSpecial": {
+				"id": "fcf91098-03e3-41a9-b5ba-6f0ec8188a12"
+			},
+			"InsightAdmin": {
+				"id": "eb1f4a8d-243a-41f0-9fbd-c7cdf6c5ef7c"
+			},
+			"MessageCenterPrivReader": {
+				"id": "ac16e43d-7b2d-40e0-ac05-243ff356ab5b"
+			},
+			"ComplianceDataAdmin": {
+				"id": "e6d1a23a-da11-4be4-9570-befc86d067a7"
+			},
+			"SecurityOperator": {
+				"id": "5f2222b1-57c3-48ba-8ad5-d4759f1fde6f"
+			},
+			"GlobalReader": {
+				"id": "f2ef992c-3afb-46b9-b7cf-a126ee74c451"
+			},
+			"SearchAdmin": {
+				"id": "0964bb5e-9bdb-4d7b-ac29-58e794862a40"
+			},
+			"SearchEditor": {
+				"id": "8835291a-918c-4fd7-a9ce-faa49f0cf7d9"
+			},
+			"PasswordAdmin": {
+				"id": "966707d0-3269-4727-9be2-8c3a10f19b9d"
+			},
+			"GroupAdmin": {
+				"id": "fdd7a751-b60b-444a-984c-02652fe8fa1c"
+			},
+			"PowerPlatformAdmin": {
+				"id": "11648597-926c-4cf3-9c36-bcebb0ba8dcc"
+			},
+			"DevOpsAdmin": {
+				"id": "e3973bdf-4987-49ae-837a-ba8e231c7286"
+			},
+			"OfficeAppsAdmin": {
+				"id": "2b745bdf-0803-4d80-aa65-822c4493daac"
+			},
+			"NetworkAdmin": {
+				"id": "d37c8bed-0711-4417-ba38-b4abe66ce4c2"
+			},
+			"TeamsDeviceAdmin": {
+				"id": "3d762c5a-1b6c-493f-843e-55a3b42923d4"
+			},
+			"ExchangeRecipientAdmin": {
+				"id": "31392ffb-586c-42d1-9346-e59415a2cc4e"
+			},
+			"IdentityGovAdmin": {
+				"id": "45d8d3c5-c802-45c6-b32a-1d70b5e1e86e"
+			},
+			"CloudAppSecAdmin": {
+				"id": "892c5842-a9a6-463a-8041-72aa08ca3cf6"
+			},
+			"Win365Admin": {
+				"id": "11451d60-acb2-45eb-a7d6-43d0f0125c13"
+			},
+			"EdgeAdmin": {
+				"id": "3f1acade-1e04-4fbc-9b69-f0302cd84aef"
+			},
+			"DomainNameAdmin": {
+				"id": "8329153b-31d0-4727-b945-745eb3bc5f31"
+			}
+		}
+		
+	]
+}
